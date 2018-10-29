@@ -21,5 +21,7 @@ Title = {The Amazing Mysteries of the Gutter: Drawing Inferences Between Panels 
 然后
 运行ssd7_training_comic.ipynb即可
 
+MAP:0.85
+
 效果如下：
-https://github.com/freekoy/comic-textboxs/infer.jpg
+![avatar](https://github.com/freekoy/comic-textboxs/blob/master/infer.jpg)
