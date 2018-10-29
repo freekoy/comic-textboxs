@@ -1,0 +1,181 @@
+Number of images in the training dataset:        18000
+Number of images in the validation dataset:       4241
+Epoch 1/20
+
+Epoch 00001: LearningRateScheduler reducing learning rate to 0.001.
+1000/1000 [==============================] - 1160s 1s/step - loss: 7.8155 - val_loss: 5.6092
+
+Epoch 00001: val_loss improved from inf to 5.60922, saving model to ssd300_drive_epoch-01_loss-7.8155_val_loss-5.6092.h5
+Epoch 2/20
+
+Epoch 00002: LearningRateScheduler reducing learning rate to 0.001.
+1000/1000 [==============================] - 1143s 1s/step - loss: 5.4100 - val_loss: 4.8640
+
+Epoch 00002: val_loss improved from 5.60922 to 4.86399, saving model to ssd300_drive_epoch-02_loss-5.4100_val_loss-4.8640.h5
+Epoch 3/20
+
+Epoch 00003: LearningRateScheduler reducing learning rate to 0.001.
+1000/1000 [==============================] - 1161s 1s/step - loss: 4.9186 - val_loss: 4.7030
+
+Epoch 00003: val_loss improved from 4.86399 to 4.70297, saving model to ssd300_drive_epoch-03_loss-4.9186_val_loss-4.7030.h5
+Epoch 4/20
+
+Epoch 00004: LearningRateScheduler reducing learning rate to 0.001.
+1000/1000 [==============================] - 1142s 1s/step - loss: 4.7034 - val_loss: 4.4251
+
+Epoch 00004: val_loss improved from 4.70297 to 4.42510, saving model to ssd300_drive_epoch-04_loss-4.7034_val_loss-4.4251.h5
+Epoch 5/20
+
+Epoch 00005: LearningRateScheduler reducing learning rate to 0.001.
+1000/1000 [==============================] - 1141s 1s/step - loss: 4.6057 - val_loss: 4.3588
+
+Epoch 00005: val_loss improved from 4.42510 to 4.35882, saving model to ssd300_drive_epoch-05_loss-4.6057_val_loss-4.3588.h5
+
+Epoch 6/30
+
+Epoch 00006: LearningRateScheduler reducing learning rate to 0.001.
+1000/1000 [==============================] - 1155s 1s/step - loss: 4.4924 - val_loss: 4.2668
+
+Epoch 00006: val_loss improved from inf to 4.26682, saving model to ssd300_drive_epoch-06_loss-4.4924_val_loss-4.2668.h5
+Epoch 7/30
+
+Epoch 00007: LearningRateScheduler reducing learning rate to 0.001.
+1000/1000 [==============================] - 1140s 1s/step - loss: 4.4439 - val_loss: 4.2544
+
+Epoch 00007: val_loss improved from 4.26682 to 4.25439, saving model to ssd300_drive_epoch-07_loss-4.4439_val_loss-4.2544.h5
+Epoch 8/30
+
+Epoch 00008: LearningRateScheduler reducing learning rate to 0.001.
+1000/1000 [==============================] - 1139s 1s/step - loss: 4.4110 - val_loss: 4.1424
+
+Epoch 00008: val_loss improved from 4.25439 to 4.14245, saving model to ssd300_drive_epoch-08_loss-4.4110_val_loss-4.1424.h5
+Epoch 9/30
+
+Epoch 00009: LearningRateScheduler reducing learning rate to 0.001.
+1000/1000 [==============================] - 1139s 1s/step - loss: 4.3815 - val_loss: 4.1142
+
+Epoch 00009: val_loss improved from 4.14245 to 4.11423, saving model to ssd300_drive_epoch-09_loss-4.3815_val_loss-4.1142.h5
+Epoch 10/30
+
+Epoch 00010: LearningRateScheduler reducing learning rate to 0.001.
+1000/1000 [==============================] - 1138s 1s/step - loss: 4.3725 - val_loss: 4.1046
+
+Epoch 00010: val_loss improved from 4.11423 to 4.10458, saving model to ssd300_drive_epoch-10_loss-4.3725_val_loss-4.1046.h5
+Epoch 11/30
+
+Epoch 00011: LearningRateScheduler reducing learning rate to 0.001.
+1000/1000 [==============================] - 1139s 1s/step - loss: 4.3115 - val_loss: 4.0848
+
+Epoch 00011: val_loss improved from 4.10458 to 4.08477, saving model to ssd300_drive_epoch-11_loss-4.3115_val_loss-4.0848.h5
+Epoch 12/30
+
+Epoch 00012: LearningRateScheduler reducing learning rate to 0.001.
+1000/1000 [==============================] - 1140s 1s/step - loss: 4.3642 - val_loss: 4.1592
+
+Epoch 00012: val_loss did not improve
+Epoch 13/30
+
+Epoch 00013: LearningRateScheduler reducing learning rate to 0.001.
+1000/1000 [==============================] - 1138s 1s/step - loss: 4.2791 - val_loss: 4.1447
+
+Epoch 00013: val_loss did not improve
+Epoch 14/30
+
+Epoch 00014: LearningRateScheduler reducing learning rate to 0.001.
+1000/1000 [==============================] - 1136s 1s/step - loss: 4.2867 - val_loss: 4.0903
+
+Epoch 00014: val_loss did not improve
+Epoch 15/30
+
+Epoch 00015: LearningRateScheduler reducing learning rate to 0.001.
+1000/1000 [==============================] - 1137s 1s/step - loss: 4.2633 - val_loss: 3.9681
+
+Epoch 00015: val_loss improved from 4.08477 to 3.96811, saving model to ssd300_drive_epoch-15_loss-4.2633_val_loss-3.9681.h5
+Epoch 16/30
+
+Epoch 00016: LearningRateScheduler reducing learning rate to 0.001.
+1000/1000 [==============================] - 1137s 1s/step - loss: 4.2613 - val_loss: 4.0622
+
+Epoch 00016: val_loss did not improve
+Epoch 17/30
+
+Epoch 00017: LearningRateScheduler reducing learning rate to 0.001.
+1000/1000 [==============================] - 1137s 1s/step - loss: 4.1898 - val_loss: 4.0301
+
+Epoch 00017: val_loss did not improve
+Epoch 18/30
+
+Epoch 00018: LearningRateScheduler reducing learning rate to 0.001.
+1000/1000 [==============================] - 1137s 1s/step - loss: 4.2295 - val_loss: 4.0093
+
+Epoch 00018: val_loss did not improve
+Epoch 19/30
+
+Epoch 00019: LearningRateScheduler reducing learning rate to 0.001.
+1000/1000 [==============================] - 1137s 1s/step - loss: 4.2069 - val_loss: 3.9748
+
+Epoch 00019: val_loss did not improve
+Epoch 20/30
+
+Epoch 00020: LearningRateScheduler reducing learning rate to 0.001.
+1000/1000 [==============================] - 1138s 1s/step - loss: 4.2286 - val_loss: 4.0128
+
+Epoch 00020: val_loss did not improve
+Epoch 21/30
+
+Epoch 00021: LearningRateScheduler reducing learning rate to 0.001.
+1000/1000 [==============================] - 1136s 1s/step - loss: 4.1659 - val_loss: 3.9354
+
+Epoch 00021: val_loss improved from 3.96811 to 3.93544, saving model to ssd300_drive_epoch-21_loss-4.1659_val_loss-3.9354.h5
+Epoch 22/30
+
+Epoch 00022: LearningRateScheduler reducing learning rate to 0.001.
+1000/1000 [==============================] - 1136s 1s/step - loss: 4.1840 - val_loss: 3.9974
+
+Epoch 00022: val_loss did not improve
+Epoch 23/30
+
+Epoch 00023: LearningRateScheduler reducing learning rate to 0.001.
+1000/1000 [==============================] - 1137s 1s/step - loss: 4.1852 - val_loss: 3.9090
+
+Epoch 00023: val_loss improved from 3.93544 to 3.90901, saving model to ssd300_drive_epoch-23_loss-4.1852_val_loss-3.9090.h5
+Epoch 24/30
+
+Epoch 00024: LearningRateScheduler reducing learning rate to 0.001.
+1000/1000 [==============================] - 1137s 1s/step - loss: 4.1475 - val_loss: 3.9502
+
+Epoch 00024: val_loss did not improve
+Epoch 25/30
+
+Epoch 00025: LearningRateScheduler reducing learning rate to 0.001.
+1000/1000 [==============================] - 1137s 1s/step - loss: 4.1565 - val_loss: 4.0262
+
+Epoch 00025: val_loss did not improve
+Epoch 26/30
+
+Epoch 00026: LearningRateScheduler reducing learning rate to 0.001.
+1000/1000 [==============================] - 1136s 1s/step - loss: 4.1310 - val_loss: 3.9102
+
+Epoch 00026: val_loss did not improve
+Epoch 27/30
+
+Epoch 00027: LearningRateScheduler reducing learning rate to 0.001.
+1000/1000 [==============================] - 1137s 1s/step - loss: 4.1373 - val_loss: 4.0391
+
+Epoch 00027: val_loss did not improve
+Epoch 28/30
+
+Epoch 00028: LearningRateScheduler reducing learning rate to 0.001.
+1000/1000 [==============================] - 1137s 1s/step - loss: 4.1366 - val_loss: 3.9859
+
+Epoch 00028: val_loss did not improve
+Epoch 29/30
+
+Epoch 00029: LearningRateScheduler reducing learning rate to 0.001.
+1000/1000 [==============================] - 1137s 1s/step - loss: 4.1402 - val_loss: 3.9259
+
+Epoch 00029: val_loss did not improve
+Epoch 30/30
+
+Epoch 00030: LearningRateScheduler reducing learning rate to 0.001.
+1000/1000 [==============================] - 1137s 1s/step - loss: 4.1509 - val_loss: 3.8884
